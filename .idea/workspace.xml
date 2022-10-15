@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f10a5ba-2522-4bbc-b40f-89f2aa8713e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bissexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopInicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G0fzRZjACZxmUtXqZmVCCI5D17" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +42,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bhaskara">
+  <component name="RunManager" selected="Application.VarArgs">
     <configuration name="Bhaskara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bhaskara" />
       <module name="codingTank" />
@@ -44,41 +50,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nome" />
+    <configuration name="Bissexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bissexto" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroParPos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumeroParPos" />
+    <configuration name="FormaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormaPagamento" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParOuImpar" />
+    <configuration name="LoopInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInicio" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PosNegZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PosNegZero" />
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarArgs" />
       <module name="codingTank" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Bhaskara" />
+      <item itemvalue="Application.Bissexto" />
+      <item itemvalue="Application.FormaPagamento" />
+      <item itemvalue="Application.LoopInicio" />
+      <item itemvalue="Application.VarArgs" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarArgs" />
+        <item itemvalue="Application.LoopInicio" />
+        <item itemvalue="Application.FormaPagamento" />
+        <item itemvalue="Application.Bissexto" />
         <item itemvalue="Application.Bhaskara" />
-        <item itemvalue="Application.NumeroParPos" />
-        <item itemvalue="Application.PosNegZero" />
-        <item itemvalue="Application.ParOuImpar" />
-        <item itemvalue="Application.Nome" />
       </list>
     </recent_temporary>
   </component>
