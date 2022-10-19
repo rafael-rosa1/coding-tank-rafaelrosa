@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f10a5ba-2522-4bbc-b40f-89f2aa8713e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adivinhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palavras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingTank/Tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTank/Tabuada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +43,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tabuada">
-    <configuration name="Bissexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bissexto" />
+  <component name="RunManager" selected="Application.Adivinhe">
+    <configuration name="Adivinhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adivinhe" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FormaPagamento" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fatorial" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInicio" />
+    <configuration name="Palavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palavras" />
       <module name="codingTank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,19 +80,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Adivinhe" />
+      <item itemvalue="Application.Fatorial" />
+      <item itemvalue="Application.Palavras" />
       <item itemvalue="Application.Tabuada" />
-      <item itemvalue="Application.Bissexto" />
-      <item itemvalue="Application.FormaPagamento" />
-      <item itemvalue="Application.LoopInicio" />
       <item itemvalue="Application.VarArgs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Adivinhe" />
+        <item itemvalue="Application.Palavras" />
+        <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.LoopInicio" />
-        <item itemvalue="Application.FormaPagamento" />
-        <item itemvalue="Application.Bissexto" />
       </list>
     </recent_temporary>
   </component>
