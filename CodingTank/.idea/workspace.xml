@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f10a5ba-2522-4bbc-b40f-89f2aa8713e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adivinhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palavras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codingTank/Tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingTank/Tabuada.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f10a5ba-2522-4bbc-b40f-89f2aa8713e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
