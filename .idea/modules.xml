@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodingTank/CodingTank.iml" filepath="$PROJECT_DIR$/CodingTank/CodingTank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codingTank.iml" filepath="$PROJECT_DIR$/.idea/codingTank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosCodingTank/exerciciosCodingTank.iml" filepath="$PROJECT_DIR$/exerciciosCodingTank/exerciciosCodingTank.iml" />
+    </modules>
+  </component>
+</project>
